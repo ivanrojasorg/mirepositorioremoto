@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Este es un contenido para hacer pruebas. 2do Cambio
-=======
-Este es un contenido para hacer pruebas. CAMBIADO
->>>>>>> clase-2
+Este es un contenido para hacer pruebas. 5to Cambio
